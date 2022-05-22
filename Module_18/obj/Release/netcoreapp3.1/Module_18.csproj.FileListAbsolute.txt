@@ -1,0 +1,124 @@
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Module_18.exe
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Module_18.deps.json
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Module_18.runtimeconfig.json
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Module_18.runtimeconfig.dev.json
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Module_18.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Module_18.pdb
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Humanizer.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Notifications.Wpf.Core.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Project C#\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Project C#\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\Module_18.csproj.AssemblyReference.cache
+C:\Project C#\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\MainWindow.g.cs
+C:\Project C#\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\App.g.cs
+C:\Project C#\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Project C#\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\Module_18_MarkupCompile.cache
+C:\Project C#\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\Module_18_MarkupCompile.lref
+C:\Project C#\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\MainWindow.baml
+C:\Project C#\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\Module_18.g.resources
+C:\Project C#\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\Module_18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project C#\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\Module_18.AssemblyInfoInputs.cache
+C:\Project C#\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\Module_18.AssemblyInfo.cs
+C:\Project C#\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\Module_18.csproj.CoreCompileInputs.cache
+C:\Project C#\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\Module_18.csproj.CopyComplete
+C:\Project C#\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\Module_18.dll
+C:\Project C#\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\Module_18.pdb
+C:\Project C#\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\Module_18.genruntimeconfig.cache
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Module_18.exe
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Module_18.deps.json
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Module_18.runtimeconfig.json
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Module_18.runtimeconfig.dev.json
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Module_18.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Module_18.pdb
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Humanizer.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\Notifications.Wpf.Core.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\Module_18.csproj.AssemblyReference.cache
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\MainWindow.g.cs
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\App.g.cs
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\Module_18_MarkupCompile.cache
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\Module_18_MarkupCompile.lref
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\MainWindow.baml
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\Module_18.g.resources
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\Module_18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\Module_18.AssemblyInfoInputs.cache
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\Module_18.AssemblyInfo.cs
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\Module_18.csproj.CoreCompileInputs.cache
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\Module_18.csproj.CopyComplete
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\Module_18.dll
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\Module_18.pdb
+C:\Project C#\Public GitHub\Profession C# developer\Module_18\obj\Release\netcoreapp3.1\Module_18.genruntimeconfig.cache
